@@ -1,0 +1,4 @@
+# R Project files
+.Rproj.user/**
+.httr-oauth
+.Rproj.user
