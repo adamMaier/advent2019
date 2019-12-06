@@ -124,7 +124,4 @@ code_walker_p2 <- function(init_data = NULL, init_input = NULL) {
   output
 }
 
-code_walker_p2(
-  data,
-  5
-)
+code_walker_p2(data, 5)
